@@ -79,3 +79,5 @@ elif game_question == "N": # if user chooses no
 else: # if user takes anything apart from the Y/N,user is denied
     print("Invalid entry.") # this is printed out
 
+"""I AM NOT DONE SO ADD MORE
+ADD THE TIME OR /// FEATURE TO IT"""
